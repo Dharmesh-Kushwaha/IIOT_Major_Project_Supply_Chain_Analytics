@@ -1,4 +1,5 @@
 # Supply Chain Analytics Dashboard
+<img width="1187" height="767" alt="Screenshot 2026-10-26 150649" src="https://github.com/user-attachments/assets/844ffc69-e9fc-407e-b8be-4bf475b8629d" />
 
 ## About the Project
 
